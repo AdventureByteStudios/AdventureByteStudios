@@ -1,7 +1,7 @@
 # AdventureByteStudios
 Welcome to the GitHub of Adventure Byte Studios!
 
-![Adventure Byte Studios Logo](https://github.com/AdventureByteStudios/AdventureByteStudios/images/logo.png)
+![Adventure Byte Studios Logo](https://github.com/AdventureByteStudios/AdventureByteStudios/logo.png)
 
 Our team is passionate about games and excited to be developing several projects we hope to release soon.
 
